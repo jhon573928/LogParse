@@ -1,0 +1,1 @@
+DemoClass - DEBUG [2019-10-25 08:48:13.211] main [o.s.b.a.b.JobLauncherCommandLineRunner:12] - No job found in registry for job name ThisWillPreventAllJobsFromBeingExecutedOnStartup.
